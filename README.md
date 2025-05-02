@@ -2,6 +2,9 @@
 
 Ce projet illustre une architecture de traitement de données de télémétrie provenant de véhicules connectés, basée sur **MQTT**, **Python**, **Flask**, **machine learning**, et **sécurité réseau**. Il est divisé en deux parties : **traitement de la donnée** et **sécurisation d'une plateforme MQTT**.
 
+![image](https://github.com/user-attachments/assets/acbef15f-4932-45af-ae7a-c66677390f74)
+
+
 ---
 
 ## 🧩 Partie 1 – Traitement des données avec MQTT
